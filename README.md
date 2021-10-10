@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HM-Dilshani Thathsara
+- 👋 Hi, I’m @HM-Dilshani Thathsara.
      I'm Computer Science undergraduate at University of Colombo School of Computing
 - 👀 I’m interested in Web designing & developing
 - 🌱 I’m currently working at kingslake as a Software engineer(Intern)
